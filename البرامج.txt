@@ -1,0 +1,1489 @@
+﻿====================================
+Software List
+Application Version:4.3.0.118
+Windows 8
+Exported Time:05-23-2015 23:36:03
+====================================
+
+Software Name: Bandisoft MPEG-1 Decoder
+Version: -
+Publisher: Bandisoft.com
+Install Time: 16/05/2015
+Size: 8,70 MB
+Help info: -
+Registry Key: HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\BandiMPEG1
+Uninstall Command: "C:\Program Files (x86)\BandiMPEG1\uninstall.exe"
+----------------------------------------------
+
+Software Name: Cloud System Booster
+Version: 3.6
+Publisher: Anvisoft
+Install Time: 28/03/2015
+Size: 49,86 MB
+Help info: -
+Registry Key: HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\Cloud System Booster
+Uninstall Command: C:\Program Files (x86)\Anvisoft\Cloud System Booster\UnInstall.exe
+----------------------------------------------
+
+Software Name: CrystalDiskInfo 6.3.2 Shizuku Edition
+Version: 6.3.2
+Publisher: Crystal Dew World
+Install Time: 15/04/2015
+Size: 74,01 MB
+Help info: http://crystalmark.info/
+Registry Key: HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\CrystalDiskInfo_is1
+Uninstall Command: "C:\Program Files (x86)\CrystalDiskInfo\unins000.exe"
+----------------------------------------------
+
+Software Name: Delete Temp Automatic 1
+Version: 1
+Publisher: By Yousef & Damasgate
+Install Time: 15/05/2015
+Size: 98,00 KB
+Help info: mailto:support@company.com
+Registry Key: HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\Delete Temp Automatic 1
+Uninstall Command: C:\Users\majreau\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup\Uninstall.exe
+----------------------------------------------
+
+Software Name: Dll-Files Fixer
+Version: 3.1.81
+Publisher: Dll-Files.com
+Install Time: 13/04/2015
+Size: 17,28 MB
+Help info: http://www.dll-files.com/fixer/
+Registry Key: HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\Dll-Files Fixer_is1
+Uninstall Command: "C:\Program Files (x86)\Dll-Files.com Fixer\unins000.exe" /silent
+----------------------------------------------
+
+Software Name: Google Chrome
+Version: 43.0.2357.65
+Publisher: Google Inc.
+Install Time: 20/05/2015
+Size: 297,40 MB
+Help info: -
+Registry Key: HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\Google Chrome
+Uninstall Command: "C:\Program Files (x86)\Google\Chrome\Application\43.0.2357.65\Installer\setup.exe" --uninstall --multi-install --chrome --system-level --verbose-logging
+----------------------------------------------
+
+Software Name: Ulead VideoStudio 11
+Version: 11.0.0.0000
+Publisher: InterVideo Digital Technology Corporation
+Install Time: 12/04/2015
+Size: 190,67 MB
+Help info: -
+Registry Key: HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\InstallShield_{F99F9E24-EE2F-47FD-AEB0-FDB82859B5C9}
+Uninstall Command: C:\Program Files (x86)\InstallShield Installation Information\{F99F9E24-EE2F-47FD-AEB0-FDB82859B5C9}\setup.exe -runfromtemp -l0x0409
+----------------------------------------------
+
+Software Name: Internet Download Manager
+Version: -
+Publisher: Tonec Inc.
+Install Time: 26/04/2015
+Size: 15,91 MB
+Help info: http://www.internetdownloadmanager.com/contact_us.html
+Registry Key: HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\Internet Download Manager
+Uninstall Command: C:\Program Files (x86)\Internet Download Manager\Uninstall.exe
+----------------------------------------------
+
+Software Name: IObit Uninstaller
+Version: 4.3.0.118
+Publisher: IObit
+Install Time: 21/04/2015
+Size: 36,46 MB
+Help info: -
+Registry Key: HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\IObitUninstall
+Uninstall Command: "C:\Program Files (x86)\IObit\IObit Uninstaller\UninstallDisplay.exe" uninstall_start
+----------------------------------------------
+
+Software Name: Notepad++
+Version: 6.7.7
+Publisher: Notepad++ Team
+Install Time: 29/03/2015
+Size: 14,50 MB
+Help info: -
+Registry Key: HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\Notepad++
+Uninstall Command: C:\Program Files (x86)\Notepad++\uninstall.exe
+----------------------------------------------
+
+Software Name: Microsoft Office Professional Plus 2013
+Version: 15.0.4420.1017
+Publisher: Microsoft Corporation
+Install Time: 05/05/2015
+Size: 1,22 GB
+Help info: -
+Registry Key: HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\Office15.PROPLUSR
+Uninstall Command: "C:\Program Files (x86)\Common Files\Microsoft Shared\OFFICE15\Office Setup Controller\setup.exe" /uninstall PROPLUSR /dll OSETUP.DLL
+----------------------------------------------
+
+Software Name: PowerISO
+Version: 6.2
+Publisher: Power Software Ltd
+Install Time: 26/03/2015
+Size: 7,13 MB
+Help info: -
+Registry Key: HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\PowerISO
+Uninstall Command: "C:\Program Files\PowerISO\uninstall.exe"
+----------------------------------------------
+
+Software Name: VLC media player
+Version: 2.2.1
+Publisher: VideoLAN
+Install Time: 28/03/2015
+Size: 167,61 MB
+Help info: -
+Registry Key: HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\VLC media player
+Uninstall Command: C:\Program Files (x86)\VideoLAN\VLC\uninstall.exe
+----------------------------------------------
+
+Software Name: VMware Workstation
+Version: 11.1.0
+Publisher: VMware, Inc
+Install Time: 26/03/2015
+Size: 3,25 GB
+Help info: http://www.vmware.com/
+Registry Key: HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\VMware_Workstation
+Uninstall Command: "C:\ProgramData\VMware\VMware Workstation\Uninstaller\\uninstall.exe" -x -S "C:\ProgramData\VMware\VMware Workstation\Uninstaller\"
+----------------------------------------------
+
+Software Name: Microsoft Visual C++ 2008 Redistributable - x86 9.0.30729.4148
+Version: 9.0.30729.4148
+Publisher: Microsoft Corporation
+Install Time: 26/03/2015
+Size: 10,19 MB
+Help info: -
+Registry Key: HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\{1F1C2DFC-2D24-3E06-BCB8-725134ADF989}
+Uninstall Command: MsiExec.exe /X{1F1C2DFC-2D24-3E06-BCB8-725134ADF989}
+----------------------------------------------
+
+Software Name: Skype™ 7.4
+Version: 7.4.102
+Publisher: Skype Technologies S.A.
+Install Time: 21/05/2015
+Size: 48,89 MB
+Help info: http://ui.skype.com/ui/0/7.4.0.102/fr/help
+Registry Key: HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\{24991BA0-F0EE-44AD-9CC8-5EC50AECF6B7}
+Uninstall Command: MsiExec.exe /X{24991BA0-F0EE-44AD-9CC8-5EC50AECF6B7}
+----------------------------------------------
+
+Software Name: Java 8 Update 45
+Version: 8.0.450
+Publisher: Oracle Corporation
+Install Time: 15/04/2015
+Size: 9,34 MB
+Help info: http://java.com
+Registry Key: HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\{26A24AE4-039D-4CA4-87B4-2F83218045F0}
+Uninstall Command: MsiExec.exe /X{26A24AE4-039D-4CA4-87B4-2F83218045F0}
+----------------------------------------------
+
+Software Name: InterVideo DeviceService
+Version: 1.0.0
+Publisher: InterVideo
+Install Time: 08/04/2015
+Size: 12,74 MB
+Help info: -
+Registry Key: HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\{521AAD14-5030-44BB-8B0E-5CE65FCE57E0}
+Uninstall Command: MsiExec.exe /X{521AAD14-5030-44BB-8B0E-5CE65FCE57E0}
+----------------------------------------------
+
+Software Name: Microsoft Visual C++ 2005 Redistributable
+Version: 8.0.61001
+Publisher: Microsoft Corporation
+Install Time: 09/04/2015
+Size: 3,23 MB
+Help info: -
+Registry Key: HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\{710f4c1c-cc18-4c49-8cbf-51240c89a1a2}
+Uninstall Command: MsiExec.exe /X{710f4c1c-cc18-4c49-8cbf-51240c89a1a2}
+----------------------------------------------
+
+Software Name: Apple Software Update
+Version: 2.1.3.127
+Publisher: Apple Inc.
+Install Time: 26/03/2015
+Size: 2,38 MB
+Help info: http://www.apple.com/fr/support/
+Registry Key: HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\{789A5B64-9DD9-4BA5-915A-F0FC0A1B7BFE}
+Uninstall Command: MsiExec.exe /X{789A5B64-9DD9-4BA5-915A-F0FC0A1B7BFE}
+----------------------------------------------
+
+Software Name: Powersuite
+Version: 4.3.2.0
+Publisher: Uniblue Systems Limited
+Install Time: 20/05/2015
+Size: 76,95 MB
+Help info: http://support.uniblue.com
+Registry Key: HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\{793A260C-CDBF-499C-ABBA-B51E8E076867}_is1
+Uninstall Command: "C:\Program Files (x86)\Uniblue\Powersuite\unins000.exe"
+----------------------------------------------
+
+Software Name: Microsoft Visual C++ 2005 Redistributable
+Version: 8.0.59193
+Publisher: Microsoft Corporation
+Install Time: 07/05/2015
+Size: 454,00 KB
+Help info: -
+Registry Key: HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\{837b34e3-7c30-493c-8f6a-2b0f04e2912c}
+Uninstall Command: MsiExec.exe /X{837b34e3-7c30-493c-8f6a-2b0f04e2912c}
+----------------------------------------------
+
+Software Name: Update for Microsoft Access 2013 (KB2956176) 32-Bit Edition
+Version: -
+Publisher: Microsoft
+Install Time: 05/05/2015
+Size: 265,19 MB
+Help info: http://support.microsoft.com/kb/2956176
+Registry Key: HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\{90150000-0015-0409-0000-0000000FF1CE}_Office15.PROPLUSR_{57CC871F-426B-4975-B842-8012DE854AF8}
+Uninstall Command: "C:\Program Files (x86)\Common Files\Microsoft Shared\OFFICE15\Oarpmany.exe" /removereleaseinpatch "{90150000-0015-0409-0000-0000000FF1CE}" "{57CC871F-426B-4975-B842-8012DE854AF8}" "1033" "0"
+----------------------------------------------
+
+Software Name: Update for Microsoft Office 2013 (KB2881035) 32-Bit Edition
+Version: -
+Publisher: Microsoft
+Install Time: 05/05/2015
+Size: 265,19 MB
+Help info: http://support.microsoft.com/kb/2881035
+Registry Key: HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\{90150000-0016-0409-0000-0000000FF1CE}_Office15.PROPLUSR_{01B80B63-C638-4004-9148-75B8C8518B1E}
+Uninstall Command: "C:\Program Files (x86)\Common Files\Microsoft Shared\OFFICE15\Oarpmany.exe" /removereleaseinpatch "{90150000-0016-0409-0000-0000000FF1CE}" "{01B80B63-C638-4004-9148-75B8C8518B1E}" "1033" "0"
+----------------------------------------------
+
+Software Name: Update for Microsoft Excel 2013 (KB2956145) 32-Bit Edition
+Version: -
+Publisher: Microsoft
+Install Time: 05/05/2015
+Size: 265,19 MB
+Help info: http://support.microsoft.com/kb/2956145
+Registry Key: HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\{90150000-0016-0409-0000-0000000FF1CE}_Office15.PROPLUSR_{4DD8EF4D-12C6-45AB-AB63-34A044F9AE5A}
+Uninstall Command: "C:\Program Files (x86)\Common Files\Microsoft Shared\OFFICE15\Oarpmany.exe" /removereleaseinpatch "{90150000-0016-0409-0000-0000000FF1CE}" "{4DD8EF4D-12C6-45AB-AB63-34A044F9AE5A}" "1033" "0"
+----------------------------------------------
+
+Software Name: Update for Microsoft Office 2013 (KB2817316) 32-Bit Edition
+Version: -
+Publisher: Microsoft
+Install Time: 05/05/2015
+Size: 265,19 MB
+Help info: http://support.microsoft.com/kb/2817316
+Registry Key: HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\{90150000-0016-0409-0000-0000000FF1CE}_Office15.PROPLUSR_{5EFADE14-CE0B-43BF-ADD2-850FCB79485F}
+Uninstall Command: "C:\Program Files (x86)\Common Files\Microsoft Shared\OFFICE15\Oarpmany.exe" /removereleaseinpatch "{90150000-0016-0409-0000-0000000FF1CE}" "{5EFADE14-CE0B-43BF-ADD2-850FCB79485F}" "1033" "0"
+----------------------------------------------
+
+Software Name: Update for Microsoft Office 2013 (KB2899498) 32-Bit Edition
+Version: -
+Publisher: Microsoft
+Install Time: 05/05/2015
+Size: 265,19 MB
+Help info: http://support.microsoft.com/kb/2899498
+Registry Key: HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\{90150000-0016-0409-0000-0000000FF1CE}_Office15.PROPLUSR_{E4046E6A-999E-45AE-8348-C76677AD0016}
+Uninstall Command: "C:\Program Files (x86)\Common Files\Microsoft Shared\OFFICE15\Oarpmany.exe" /removereleaseinpatch "{90150000-0016-0409-0000-0000000FF1CE}" "{E4046E6A-999E-45AE-8348-C76677AD0016}" "1033" "0"
+----------------------------------------------
+
+Software Name: Update for Microsoft PowerPoint 2013 (KB2965206) 32-Bit Edition
+Version: -
+Publisher: Microsoft
+Install Time: 05/05/2015
+Size: 265,19 MB
+Help info: http://support.microsoft.com/kb/2965206
+Registry Key: HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\{90150000-0018-0409-0000-0000000FF1CE}_Office15.PROPLUSR_{2BE8C2B8-CD98-42D9-92F5-66CE031B0505}
+Uninstall Command: "C:\Program Files (x86)\Common Files\Microsoft Shared\OFFICE15\Oarpmany.exe" /removereleaseinpatch "{90150000-0018-0409-0000-0000000FF1CE}" "{2BE8C2B8-CD98-42D9-92F5-66CE031B0505}" "1033" "0"
+----------------------------------------------
+
+Software Name: Update for Microsoft Publisher 2013 (KB2883048) 32-Bit Edition
+Version: -
+Publisher: Microsoft
+Install Time: 05/05/2015
+Size: 265,19 MB
+Help info: http://support.microsoft.com/kb/2883048
+Registry Key: HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\{90150000-0019-0409-0000-0000000FF1CE}_Office15.PROPLUSR_{08F93D29-1D44-4E70-B73F-001BF01144F0}
+Uninstall Command: "C:\Program Files (x86)\Common Files\Microsoft Shared\OFFICE15\Oarpmany.exe" /removereleaseinpatch "{90150000-0019-0409-0000-0000000FF1CE}" "{08F93D29-1D44-4E70-B73F-001BF01144F0}" "1033" "0"
+----------------------------------------------
+
+Software Name: Update for Microsoft Outlook Social Connector 2013 (KB2737996) 32-Bit Edition
+Version: -
+Publisher: Microsoft
+Install Time: 05/05/2015
+Size: 265,19 MB
+Help info: http://support.microsoft.com/kb/2737996
+Registry Key: HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\{90150000-001A-0409-0000-0000000FF1CE}_Office15.PROPLUSR_{1DFC8507-C1A3-48A9-B0B9-FB88B471962E}
+Uninstall Command: "C:\Program Files (x86)\Common Files\Microsoft Shared\OFFICE15\Oarpmany.exe" /removereleaseinpatch "{90150000-001A-0409-0000-0000000FF1CE}" "{1DFC8507-C1A3-48A9-B0B9-FB88B471962E}" "1033" "0"
+----------------------------------------------
+
+Software Name: Update for Microsoft Outlook 2013 (KB2956170) 32-Bit Edition
+Version: -
+Publisher: Microsoft
+Install Time: 05/05/2015
+Size: 265,19 MB
+Help info: http://support.microsoft.com/kb/2956170
+Registry Key: HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\{90150000-001A-0409-0000-0000000FF1CE}_Office15.PROPLUSR_{BAE53937-6E59-4062-BD07-822FB9A52A57}
+Uninstall Command: "C:\Program Files (x86)\Common Files\Microsoft Shared\OFFICE15\Oarpmany.exe" /removereleaseinpatch "{90150000-001A-0409-0000-0000000FF1CE}" "{BAE53937-6E59-4062-BD07-822FB9A52A57}" "1033" "0"
+----------------------------------------------
+
+Software Name: Security Update for Microsoft Word 2013 (KB2956163) 32-Bit Edition
+Version: -
+Publisher: Microsoft
+Install Time: 05/05/2015
+Size: 265,19 MB
+Help info: http://support.microsoft.com/kb/2956163
+Registry Key: HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\{90150000-001A-0409-0000-0000000FF1CE}_Office15.PROPLUSR_{EE0F3C75-36D9-4285-B04F-22F033550FD4}
+Uninstall Command: "C:\Program Files (x86)\Common Files\Microsoft Shared\OFFICE15\Oarpmany.exe" /removereleaseinpatch "{90150000-001A-0409-0000-0000000FF1CE}" "{EE0F3C75-36D9-4285-B04F-22F033550FD4}" "1033" "0"
+----------------------------------------------
+
+Software Name: Update for Microsoft Office 2013 (KB2956168) 32-Bit Edition
+Version: -
+Publisher: Microsoft
+Install Time: 05/05/2015
+Size: 265,19 MB
+Help info: http://support.microsoft.com/kb/2956168
+Registry Key: HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\{90150000-001F-0409-0000-0000000FF1CE}_Office15.PROPLUSR_{1469ECD9-2952-4987-AC28-4B05FB37EFF5}
+Uninstall Command: "C:\Program Files (x86)\Common Files\Microsoft Shared\OFFICE15\Oarpmany.exe" /removereleaseinpatch "{90150000-001F-0409-0000-0000000FF1CE}" "{1469ECD9-2952-4987-AC28-4B05FB37EFF5}" "1033" "0"
+----------------------------------------------
+
+Software Name: Update for Microsoft Project 2013 (KB2956187) 32-Bit Edition
+Version: -
+Publisher: Microsoft
+Install Time: 05/05/2015
+Size: 265,19 MB
+Help info: http://support.microsoft.com/kb/2956187
+Registry Key: HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\{90150000-002A-0000-1000-0000000FF1CE}_Office15.PROPLUSR_{0A9544E9-EA2A-4D39-8504-A79EA6FC4AA4}
+Uninstall Command: "C:\Program Files (x86)\Common Files\Microsoft Shared\OFFICE15\Oarpmany.exe" /removereleaseinpatch "{90150000-002A-0000-1000-0000000FF1CE}" "{0A9544E9-EA2A-4D39-8504-A79EA6FC4AA4}" "1033" "0"
+----------------------------------------------
+
+Software Name: Update for Microsoft OneDrive for Business (KB2920746) 32-Bit Edition
+Version: -
+Publisher: Microsoft
+Install Time: 05/05/2015
+Size: 265,19 MB
+Help info: http://support.microsoft.com/kb/2920746
+Registry Key: HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\{90150000-002A-0000-1000-0000000FF1CE}_Office15.PROPLUSR_{0B0B3A2B-0A31-4324-9E65-AD30B6CD3CE9}
+Uninstall Command: "C:\Program Files (x86)\Common Files\Microsoft Shared\OFFICE15\Oarpmany.exe" /removereleaseinpatch "{90150000-002A-0000-1000-0000000FF1CE}" "{0B0B3A2B-0A31-4324-9E65-AD30B6CD3CE9}" "1033" "0"
+----------------------------------------------
+
+Software Name: Update for Microsoft Office 2013 (KB2956177) 32-Bit Edition
+Version: -
+Publisher: Microsoft
+Install Time: 05/05/2015
+Size: 265,19 MB
+Help info: http://support.microsoft.com/kb/2956177
+Registry Key: HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\{90150000-002A-0000-1000-0000000FF1CE}_Office15.PROPLUSR_{AB41EDC8-9CA9-4D1B-8E96-C53D2A2BFF8E}
+Uninstall Command: "C:\Program Files (x86)\Common Files\Microsoft Shared\OFFICE15\Oarpmany.exe" /removereleaseinpatch "{90150000-002A-0000-1000-0000000FF1CE}" "{AB41EDC8-9CA9-4D1B-8E96-C53D2A2BFF8E}" "1033" "0"
+----------------------------------------------
+
+Software Name: Update for Microsoft Office 2013 (KB2863843) 32-Bit Edition
+Version: -
+Publisher: Microsoft
+Install Time: 05/05/2015
+Size: 265,19 MB
+Help info: http://support.microsoft.com/kb/2863843
+Registry Key: HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\{90150000-002A-0000-1000-0000000FF1CE}_Office15.PROPLUSR_{AD7045B8-1D75-4B4C-8120-12F045D206C7}
+Uninstall Command: "C:\Program Files (x86)\Common Files\Microsoft Shared\OFFICE15\Oarpmany.exe" /removereleaseinpatch "{90150000-002A-0000-1000-0000000FF1CE}" "{AD7045B8-1D75-4B4C-8120-12F045D206C7}" "1033" "0"
+----------------------------------------------
+
+Software Name: Update for Microsoft OneNote 2013 (KB2956165) 32-Bit Edition
+Version: -
+Publisher: Microsoft
+Install Time: 05/05/2015
+Size: 265,19 MB
+Help info: http://support.microsoft.com/kb/2956165
+Registry Key: HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\{90150000-002A-0000-1000-0000000FF1CE}_Office15.PROPLUSR_{B0672B3E-5774-4B5D-B1FD-6FFC062B5BC1}
+Uninstall Command: "C:\Program Files (x86)\Common Files\Microsoft Shared\OFFICE15\Oarpmany.exe" /removereleaseinpatch "{90150000-002A-0000-1000-0000000FF1CE}" "{B0672B3E-5774-4B5D-B1FD-6FFC062B5BC1}" "1033" "0"
+----------------------------------------------
+
+Software Name: Update for Microsoft Office 2013 (KB2760610) 32-Bit Edition
+Version: -
+Publisher: Microsoft
+Install Time: 05/05/2015
+Size: 265,19 MB
+Help info: http://support.microsoft.com/kb/2760610
+Registry Key: HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\{90150000-002A-0000-1000-0000000FF1CE}_Office15.PROPLUSR_{B299B17D-874D-43DD-84AA-414BD9C70021}
+Uninstall Command: "C:\Program Files (x86)\Common Files\Microsoft Shared\OFFICE15\Oarpmany.exe" /removereleaseinpatch "{90150000-002A-0000-1000-0000000FF1CE}" "{B299B17D-874D-43DD-84AA-414BD9C70021}" "1033" "0"
+----------------------------------------------
+
+Software Name: Update for Microsoft Lync 2013 (KB2956174) 32-Bit Edition
+Version: -
+Publisher: Microsoft
+Install Time: 05/05/2015
+Size: 265,19 MB
+Help info: http://support.microsoft.com/kb/2956174
+Registry Key: HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\{90150000-002A-0000-1000-0000000FF1CE}_Office15.PROPLUSR_{E519165B-2C62-4A31-953B-AE33D9AD7A41}
+Uninstall Command: "C:\Program Files (x86)\Common Files\Microsoft Shared\OFFICE15\Oarpmany.exe" /removereleaseinpatch "{90150000-002A-0000-1000-0000000FF1CE}" "{E519165B-2C62-4A31-953B-AE33D9AD7A41}" "1033" "0"
+----------------------------------------------
+
+Software Name: Update for Microsoft Visio Viewer 2013 (KB2817301) 32-Bit Edition
+Version: -
+Publisher: Microsoft
+Install Time: 05/05/2015
+Size: 265,19 MB
+Help info: http://support.microsoft.com/kb/2817301
+Registry Key: HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\{90150000-006E-0409-0000-0000000FF1CE}_Office15.PROPLUSR_{25C61889-2E44-4BE1-9E96-9364BFDCF501}
+Uninstall Command: "C:\Program Files (x86)\Common Files\Microsoft Shared\OFFICE15\Oarpmany.exe" /removereleaseinpatch "{90150000-006E-0409-0000-0000000FF1CE}" "{25C61889-2E44-4BE1-9E96-9364BFDCF501}" "1033" "0"
+----------------------------------------------
+
+Software Name: Update for Microsoft Office 2013 (KB2956167) 32-Bit Edition
+Version: -
+Publisher: Microsoft
+Install Time: 05/05/2015
+Size: 265,19 MB
+Help info: http://support.microsoft.com/kb/2956167
+Registry Key: HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\{90150000-006E-0409-0000-0000000FF1CE}_Office15.PROPLUSR_{6AC44D64-BAB9-4FD2-9315-98D376BB9C50}
+Uninstall Command: "C:\Program Files (x86)\Common Files\Microsoft Shared\OFFICE15\Oarpmany.exe" /removereleaseinpatch "{90150000-006E-0409-0000-0000000FF1CE}" "{6AC44D64-BAB9-4FD2-9315-98D376BB9C50}" "1033" "0"
+----------------------------------------------
+
+Software Name: Update for Microsoft Office 2013 (KB2956160) 32-Bit Edition
+Version: -
+Publisher: Microsoft
+Install Time: 05/05/2015
+Size: 265,19 MB
+Help info: http://support.microsoft.com/kb/2956160
+Registry Key: HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\{90150000-006E-0409-0000-0000000FF1CE}_Office15.PROPLUSR_{7C8F81FA-2938-4909-A4B1-A702200FC779}
+Uninstall Command: "C:\Program Files (x86)\Common Files\Microsoft Shared\OFFICE15\Oarpmany.exe" /removereleaseinpatch "{90150000-006E-0409-0000-0000000FF1CE}" "{7C8F81FA-2938-4909-A4B1-A702200FC779}" "1033" "0"
+----------------------------------------------
+
+Software Name: Security Update for Microsoft Office 2013 (KB2956151) 32-Bit Edition
+Version: -
+Publisher: Microsoft
+Install Time: 05/05/2015
+Size: 265,19 MB
+Help info: http://support.microsoft.com/kb/2956151
+Registry Key: HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\{90150000-006E-0409-0000-0000000FF1CE}_Office15.PROPLUSR_{989850CA-F2D5-4034-B7B6-B9AE3A9868B0}
+Uninstall Command: "C:\Program Files (x86)\Common Files\Microsoft Shared\OFFICE15\Oarpmany.exe" /removereleaseinpatch "{90150000-006E-0409-0000-0000000FF1CE}" "{989850CA-F2D5-4034-B7B6-B9AE3A9868B0}" "1033" "0"
+----------------------------------------------
+
+Software Name: Security Update for Microsoft Office 2013 (KB2768005) 32-Bit Edition
+Version: -
+Publisher: Microsoft
+Install Time: 05/05/2015
+Size: 265,19 MB
+Help info: http://support.microsoft.com/kb/2768005
+Registry Key: HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\{90150000-006E-0409-0000-0000000FF1CE}_Office15.PROPLUSR_{ABC00C19-939D-4829-9D01-7C19AD974981}
+Uninstall Command: "C:\Program Files (x86)\Common Files\Microsoft Shared\OFFICE15\Oarpmany.exe" /removereleaseinpatch "{90150000-006E-0409-0000-0000000FF1CE}" "{ABC00C19-939D-4829-9D01-7C19AD974981}" "1033" "0"
+----------------------------------------------
+
+Software Name: Update for Skype for Business 2015 (KB2889853) 32-Bit Edition
+Version: -
+Publisher: Microsoft
+Install Time: 05/05/2015
+Size: 265,19 MB
+Help info: http://support.microsoft.com/kb/2889853
+Registry Key: HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\{90150000-012B-0409-0000-0000000FF1CE}_Office15.PROPLUSR_{BF1B3F01-93F3-4B83-93DB-132EB1AED259}
+Uninstall Command: "C:\Program Files (x86)\Common Files\Microsoft Shared\OFFICE15\Oarpmany.exe" /removereleaseinpatch "{90150000-012B-0409-0000-0000000FF1CE}" "{BF1B3F01-93F3-4B83-93DB-132EB1AED259}" "1033" "0"
+----------------------------------------------
+
+Software Name: Microsoft Office FrontPage 2003
+Version: 11.0.8173.0
+Publisher: Microsoft Corporation
+Install Time: 09/04/2015
+Size: 535,81 MB
+Help info: http://www.microsoft.com/support
+Registry Key: HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\{90170409-6000-11D3-8CFE-0150048383C9}
+Uninstall Command: MsiExec.exe /X{90170409-6000-11D3-8CFE-0150048383C9}
+----------------------------------------------
+
+Software Name: Camtasia Studio 8
+Version: 8.5.2.1999
+Publisher: TechSmith Corporation
+Install Time: 12/05/2015
+Size: 398,43 MB
+Help info: http://support.techsmith.com
+Registry Key: HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\{904AC0F0-F69E-467E-A719-B083940F608A}
+Uninstall Command: MsiExec.exe /X{904AC0F0-F69E-467E-A719-B083940F608A}
+----------------------------------------------
+
+Software Name: Update for Microsoft Office 2013 (KB2956148) 32-Bit Edition
+Version: -
+Publisher: Microsoft
+Install Time: 05/05/2015
+Size: 265,19 MB
+Help info: http://support.microsoft.com/kb/2956148
+Registry Key: HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\{91150000-0011-0000-0000-0000000FF1CE}_Office15.PROPLUSR_{0E4A489C-EA47-4488-BA4C-97FD3935E67E}
+Uninstall Command: "C:\Program Files (x86)\Common Files\Microsoft Shared\OFFICE15\Oarpmany.exe" /removereleaseinpatch "{91150000-0011-0000-0000-0000000FF1CE}" "{0E4A489C-EA47-4488-BA4C-97FD3935E67E}" "1033" "0"
+----------------------------------------------
+
+Software Name: Update for Microsoft Office 2013 (KB2880977) 32-Bit Edition
+Version: -
+Publisher: Microsoft
+Install Time: 05/05/2015
+Size: 265,19 MB
+Help info: http://support.microsoft.com/kb/2880977
+Registry Key: HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\{91150000-0011-0000-0000-0000000FF1CE}_Office15.PROPLUSR_{0F78855B-2181-4FCE-82DD-ED649E985409}
+Uninstall Command: "C:\Program Files (x86)\Common Files\Microsoft Shared\OFFICE15\Oarpmany.exe" /removereleaseinpatch "{91150000-0011-0000-0000-0000000FF1CE}" "{0F78855B-2181-4FCE-82DD-ED649E985409}" "1033" "0"
+----------------------------------------------
+
+Software Name: Update for Microsoft Visio 2013 (KB2817306) 32-Bit Edition
+Version: -
+Publisher: Microsoft
+Install Time: 05/05/2015
+Size: 265,19 MB
+Help info: http://support.microsoft.com/kb/2817306
+Registry Key: HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\{91150000-0011-0000-0000-0000000FF1CE}_Office15.PROPLUSR_{166909FC-6736-4EE5-9491-1BF9A4EE84E7}
+Uninstall Command: "C:\Program Files (x86)\Common Files\Microsoft Shared\OFFICE15\Oarpmany.exe" /removereleaseinpatch "{91150000-0011-0000-0000-0000000FF1CE}" "{166909FC-6736-4EE5-9491-1BF9A4EE84E7}" "1033" "0"
+----------------------------------------------
+
+Software Name: Update for Microsoft Office 2013 (KB2956154) 32-Bit Edition
+Version: -
+Publisher: Microsoft
+Install Time: 05/05/2015
+Size: 265,19 MB
+Help info: http://support.microsoft.com/kb/2956154
+Registry Key: HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\{91150000-0011-0000-0000-0000000FF1CE}_Office15.PROPLUSR_{197DFD5A-3C03-4F97-B8DB-0105BAE87FCD}
+Uninstall Command: "C:\Program Files (x86)\Common Files\Microsoft Shared\OFFICE15\Oarpmany.exe" /removereleaseinpatch "{91150000-0011-0000-0000-0000000FF1CE}" "{197DFD5A-3C03-4F97-B8DB-0105BAE87FCD}" "1033" "0"
+----------------------------------------------
+
+Software Name: Update for Microsoft Office 2013 (KB2881001) 32-Bit Edition
+Version: -
+Publisher: Microsoft
+Install Time: 05/05/2015
+Size: 265,19 MB
+Help info: http://support.microsoft.com/kb/2881001
+Registry Key: HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\{91150000-0011-0000-0000-0000000FF1CE}_Office15.PROPLUSR_{31849233-AD8B-42D7-9AE1-74C79C8E8C03}
+Uninstall Command: "C:\Program Files (x86)\Common Files\Microsoft Shared\OFFICE15\Oarpmany.exe" /removereleaseinpatch "{91150000-0011-0000-0000-0000000FF1CE}" "{31849233-AD8B-42D7-9AE1-74C79C8E8C03}" "1033" "0"
+----------------------------------------------
+
+Software Name: Update for Microsoft Office 2013 (KB2760544) 32-Bit Edition
+Version: -
+Publisher: Microsoft
+Install Time: 05/05/2015
+Size: 265,19 MB
+Help info: http://support.microsoft.com/kb/2760544
+Registry Key: HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\{91150000-0011-0000-0000-0000000FF1CE}_Office15.PROPLUSR_{45B7D395-EB9B-414F-9E46-5849B42326E2}
+Uninstall Command: "C:\Program Files (x86)\Common Files\Microsoft Shared\OFFICE15\Oarpmany.exe" /removereleaseinpatch "{91150000-0011-0000-0000-0000000FF1CE}" "{45B7D395-EB9B-414F-9E46-5849B42326E2}" "1033" "0"
+----------------------------------------------
+
+Software Name: Update for Microsoft Office 2013 (KB2768012) 32-Bit Edition
+Version: -
+Publisher: Microsoft
+Install Time: 05/05/2015
+Size: 265,19 MB
+Help info: http://support.microsoft.com/kb/2768012
+Registry Key: HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\{91150000-0011-0000-0000-0000000FF1CE}_Office15.PROPLUSR_{66421820-D3CA-450A-898C-78D7E40108E6}
+Uninstall Command: "C:\Program Files (x86)\Common Files\Microsoft Shared\OFFICE15\Oarpmany.exe" /removereleaseinpatch "{91150000-0011-0000-0000-0000000FF1CE}" "{66421820-D3CA-450A-898C-78D7E40108E6}" "1033" "0"
+----------------------------------------------
+
+Software Name: Update for Microsoft Office 2013 (KB2837654) 32-Bit Edition
+Version: -
+Publisher: Microsoft
+Install Time: 05/05/2015
+Size: 265,19 MB
+Help info: http://support.microsoft.com/kb/2837654
+Registry Key: HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\{91150000-0011-0000-0000-0000000FF1CE}_Office15.PROPLUSR_{6D771289-E5A7-442F-82B5-5EC4217AEF03}
+Uninstall Command: "C:\Program Files (x86)\Common Files\Microsoft Shared\OFFICE15\Oarpmany.exe" /removereleaseinpatch "{91150000-0011-0000-0000-0000000FF1CE}" "{6D771289-E5A7-442F-82B5-5EC4217AEF03}" "1033" "0"
+----------------------------------------------
+
+Software Name: Update for Microsoft Office 2013 (KB2726996) 32-Bit Edition
+Version: -
+Publisher: Microsoft
+Install Time: 05/05/2015
+Size: 265,19 MB
+Help info: http://support.microsoft.com/kb/2726996
+Registry Key: HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\{91150000-0011-0000-0000-0000000FF1CE}_Office15.PROPLUSR_{6E6B2968-B9D7-40C9-9FC2-8E729DDBB39C}
+Uninstall Command: "C:\Program Files (x86)\Common Files\Microsoft Shared\OFFICE15\Oarpmany.exe" /removereleaseinpatch "{91150000-0011-0000-0000-0000000FF1CE}" "{6E6B2968-B9D7-40C9-9FC2-8E729DDBB39C}" "1033" "0"
+----------------------------------------------
+
+Software Name: Update for Microsoft Office 2013 (KB2920754) 32-Bit Edition
+Version: -
+Publisher: Microsoft
+Install Time: 05/05/2015
+Size: 265,19 MB
+Help info: http://support.microsoft.com/kb/2920754
+Registry Key: HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\{91150000-0011-0000-0000-0000000FF1CE}_Office15.PROPLUSR_{6EEF6E8E-9854-4DCD-862F-422DF2F984F7}
+Uninstall Command: "C:\Program Files (x86)\Common Files\Microsoft Shared\OFFICE15\Oarpmany.exe" /removereleaseinpatch "{91150000-0011-0000-0000-0000000FF1CE}" "{6EEF6E8E-9854-4DCD-862F-422DF2F984F7}" "1033" "0"
+----------------------------------------------
+
+Software Name: Update for Microsoft Office 2013 (KB2883095) 32-Bit Edition
+Version: -
+Publisher: Microsoft
+Install Time: 05/05/2015
+Size: 265,19 MB
+Help info: http://support.microsoft.com/kb/2883095
+Registry Key: HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\{91150000-0011-0000-0000-0000000FF1CE}_Office15.PROPLUSR_{7A9AB1AE-98B5-4B45-86B8-33A7B946D7CA}
+Uninstall Command: "C:\Program Files (x86)\Common Files\Microsoft Shared\OFFICE15\Oarpmany.exe" /removereleaseinpatch "{91150000-0011-0000-0000-0000000FF1CE}" "{7A9AB1AE-98B5-4B45-86B8-33A7B946D7CA}" "1033" "0"
+----------------------------------------------
+
+Software Name: Update for Microsoft Office 2013 (KB2880478) 32-Bit Edition
+Version: -
+Publisher: Microsoft
+Install Time: 05/05/2015
+Size: 265,19 MB
+Help info: http://support.microsoft.com/kb/2880478
+Registry Key: HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\{91150000-0011-0000-0000-0000000FF1CE}_Office15.PROPLUSR_{7C5CEE0F-6823-4BB7-A28F-76FEC14EB6AC}
+Uninstall Command: "C:\Program Files (x86)\Common Files\Microsoft Shared\OFFICE15\Oarpmany.exe" /removereleaseinpatch "{91150000-0011-0000-0000-0000000FF1CE}" "{7C5CEE0F-6823-4BB7-A28F-76FEC14EB6AC}" "1033" "0"
+----------------------------------------------
+
+Software Name: Update for Microsoft Office 2013 (KB2899522) 32-Bit Edition
+Version: -
+Publisher: Microsoft
+Install Time: 05/05/2015
+Size: 265,19 MB
+Help info: http://support.microsoft.com/kb/2899522
+Registry Key: HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\{91150000-0011-0000-0000-0000000FF1CE}_Office15.PROPLUSR_{87F6726E-6F99-42F0-8E11-55D798E57DD5}
+Uninstall Command: "C:\Program Files (x86)\Common Files\Microsoft Shared\OFFICE15\Oarpmany.exe" /removereleaseinpatch "{91150000-0011-0000-0000-0000000FF1CE}" "{87F6726E-6F99-42F0-8E11-55D798E57DD5}" "1033" "0"
+----------------------------------------------
+
+Software Name: Definition Update for Microsoft Office 2013 (KB2986209) 32-Bit Edition
+Version: -
+Publisher: Microsoft
+Install Time: 05/05/2015
+Size: 265,19 MB
+Help info: http://support.microsoft.com/kb/2986209
+Registry Key: HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\{91150000-0011-0000-0000-0000000FF1CE}_Office15.PROPLUSR_{8B297C32-2EC8-47B0-B3C9-903B6293A525}
+Uninstall Command: "C:\Program Files (x86)\Common Files\Microsoft Shared\OFFICE15\Oarpmany.exe" /removereleaseinpatch "{91150000-0011-0000-0000-0000000FF1CE}" "{8B297C32-2EC8-47B0-B3C9-903B6293A525}" "1033" "0"
+----------------------------------------------
+
+Software Name: Update for Microsoft Office 2013 (KB2760249) 32-Bit Edition
+Version: -
+Publisher: Microsoft
+Install Time: 05/05/2015
+Size: 265,19 MB
+Help info: http://support.microsoft.com/kb/2760249
+Registry Key: HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\{91150000-0011-0000-0000-0000000FF1CE}_Office15.PROPLUSR_{8C07AD38-38EB-4332-BCB3-F55A77C927DF}
+Uninstall Command: "C:\Program Files (x86)\Common Files\Microsoft Shared\OFFICE15\Oarpmany.exe" /removereleaseinpatch "{91150000-0011-0000-0000-0000000FF1CE}" "{8C07AD38-38EB-4332-BCB3-F55A77C927DF}" "1033" "0"
+----------------------------------------------
+
+Software Name: Security Update for Microsoft Office 2013 (KB2880502) 32-Bit Edition
+Version: -
+Publisher: Microsoft
+Install Time: 05/05/2015
+Size: 265,19 MB
+Help info: http://support.microsoft.com/kb/2880502
+Registry Key: HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\{91150000-0011-0000-0000-0000000FF1CE}_Office15.PROPLUSR_{90E7A66B-723D-4790-824A-6E4EEC0C2CBA}
+Uninstall Command: "C:\Program Files (x86)\Common Files\Microsoft Shared\OFFICE15\Oarpmany.exe" /removereleaseinpatch "{91150000-0011-0000-0000-0000000FF1CE}" "{90E7A66B-723D-4790-824A-6E4EEC0C2CBA}" "1033" "0"
+----------------------------------------------
+
+Software Name: Update for Microsoft Office 2013 (KB2956171) 32-Bit Edition
+Version: -
+Publisher: Microsoft
+Install Time: 05/05/2015
+Size: 265,19 MB
+Help info: http://support.microsoft.com/kb/2956171
+Registry Key: HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\{91150000-0011-0000-0000-0000000FF1CE}_Office15.PROPLUSR_{92802C1D-B9BB-4927-9CD8-8ED2407C3D25}
+Uninstall Command: "C:\Program Files (x86)\Common Files\Microsoft Shared\OFFICE15\Oarpmany.exe" /removereleaseinpatch "{91150000-0011-0000-0000-0000000FF1CE}" "{92802C1D-B9BB-4927-9CD8-8ED2407C3D25}" "1033" "0"
+----------------------------------------------
+
+Software Name: Update for Microsoft Office 2013 (KB2760344) 32-Bit Edition
+Version: -
+Publisher: Microsoft
+Install Time: 05/05/2015
+Size: 265,19 MB
+Help info: http://support.microsoft.com/kb/2760344
+Registry Key: HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\{91150000-0011-0000-0000-0000000FF1CE}_Office15.PROPLUSR_{A7610F07-E844-4444-8E1D-D5BC8AD0B4C5}
+Uninstall Command: "C:\Program Files (x86)\Common Files\Microsoft Shared\OFFICE15\Oarpmany.exe" /removereleaseinpatch "{91150000-0011-0000-0000-0000000FF1CE}" "{A7610F07-E844-4444-8E1D-D5BC8AD0B4C5}" "1033" "0"
+----------------------------------------------
+
+Software Name: Update for Microsoft Word 2013 (KB2878319) 32-Bit Edition
+Version: -
+Publisher: Microsoft
+Install Time: 05/05/2015
+Size: 265,19 MB
+Help info: http://support.microsoft.com/kb/2878319
+Registry Key: HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\{91150000-0011-0000-0000-0000000FF1CE}_Office15.PROPLUSR_{A7CD05CC-CA85-428C-91FD-74A908D126E1}
+Uninstall Command: "C:\Program Files (x86)\Common Files\Microsoft Shared\OFFICE15\Oarpmany.exe" /removereleaseinpatch "{91150000-0011-0000-0000-0000000FF1CE}" "{A7CD05CC-CA85-428C-91FD-74A908D126E1}" "1033" "0"
+----------------------------------------------
+
+Software Name: Update for Microsoft Office 2013 (KB2883036) 32-Bit Edition
+Version: -
+Publisher: Microsoft
+Install Time: 05/05/2015
+Size: 265,19 MB
+Help info: http://support.microsoft.com/kb/2883036
+Registry Key: HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\{91150000-0011-0000-0000-0000000FF1CE}_Office15.PROPLUSR_{B8E73381-09B1-4895-ACD0-34385B0F526D}
+Uninstall Command: "C:\Program Files (x86)\Common Files\Microsoft Shared\OFFICE15\Oarpmany.exe" /removereleaseinpatch "{91150000-0011-0000-0000-0000000FF1CE}" "{B8E73381-09B1-4895-ACD0-34385B0F526D}" "1033" "0"
+----------------------------------------------
+
+Software Name: Update for Microsoft Office 2013 (KB2920769) 32-Bit Edition
+Version: -
+Publisher: Microsoft
+Install Time: 05/05/2015
+Size: 265,19 MB
+Help info: http://support.microsoft.com/kb/2920769
+Registry Key: HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\{91150000-0011-0000-0000-0000000FF1CE}_Office15.PROPLUSR_{D2A7B64F-1BE1-4381-A555-FE49708BF92F}
+Uninstall Command: "C:\Program Files (x86)\Common Files\Microsoft Shared\OFFICE15\Oarpmany.exe" /removereleaseinpatch "{91150000-0011-0000-0000-0000000FF1CE}" "{D2A7B64F-1BE1-4381-A555-FE49708BF92F}" "1033" "0"
+----------------------------------------------
+
+Software Name: Update for Microsoft Office 2013 (KB2956169) 32-Bit Edition
+Version: -
+Publisher: Microsoft
+Install Time: 05/05/2015
+Size: 265,19 MB
+Help info: http://support.microsoft.com/kb/2956169
+Registry Key: HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\{91150000-0011-0000-0000-0000000FF1CE}_Office15.PROPLUSR_{D8F0FA15-9658-4B00-A176-FB441EF3A6FA}
+Uninstall Command: "C:\Program Files (x86)\Common Files\Microsoft Shared\OFFICE15\Oarpmany.exe" /removereleaseinpatch "{91150000-0011-0000-0000-0000000FF1CE}" "{D8F0FA15-9658-4B00-A176-FB441EF3A6FA}" "1033" "0"
+----------------------------------------------
+
+Software Name: Security Update for Microsoft Office 2013 (KB2910941) 32-Bit Edition
+Version: -
+Publisher: Microsoft
+Install Time: 05/05/2015
+Size: 265,19 MB
+Help info: http://support.microsoft.com/kb/2910941
+Registry Key: HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\{91150000-0011-0000-0000-0000000FF1CE}_Office15.PROPLUSR_{E0434175-7133-45D2-B53A-78700C2F8BC4}
+Uninstall Command: "C:\Program Files (x86)\Common Files\Microsoft Shared\OFFICE15\Oarpmany.exe" /removereleaseinpatch "{91150000-0011-0000-0000-0000000FF1CE}" "{E0434175-7133-45D2-B53A-78700C2F8BC4}" "1033" "0"
+----------------------------------------------
+
+Software Name: Update for Microsoft Office 2013 (KB2760371) 32-Bit Edition
+Version: -
+Publisher: Microsoft
+Install Time: 05/05/2015
+Size: 265,19 MB
+Help info: http://support.microsoft.com/kb/2760371
+Registry Key: HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\{91150000-0011-0000-0000-0000000FF1CE}_Office15.PROPLUSR_{FFF87DE6-6602-4F65-BD75-D481E0539DCD}
+Uninstall Command: "C:\Program Files (x86)\Common Files\Microsoft Shared\OFFICE15\Oarpmany.exe" /removereleaseinpatch "{91150000-0011-0000-0000-0000000FF1CE}" "{FFF87DE6-6602-4F65-BD75-D481E0539DCD}" "1033" "0"
+----------------------------------------------
+
+Software Name: Microsoft Visual C++ 2008 Redistributable - x86 9.0.30729.17
+Version: 9.0.30729
+Publisher: Microsoft Corporation
+Install Time: 08/04/2015
+Size: 9,63 MB
+Help info: -
+Registry Key: HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\{9A25302D-30C0-39D9-BD6F-21E6EC160475}
+Uninstall Command: MsiExec.exe /X{9A25302D-30C0-39D9-BD6F-21E6EC160475}
+----------------------------------------------
+
+Software Name: Microsoft Visual C++ 2008 Redistributable - x86 9.0.30729.6161
+Version: 9.0.30729.6161
+Publisher: Microsoft Corporation
+Install Time: 27/03/2015
+Size: 10,20 MB
+Help info: -
+Registry Key: HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\{9BE518E6-ECC6-35A9-88E4-87755C07200F}
+Uninstall Command: MsiExec.exe /X{9BE518E6-ECC6-35A9-88E4-87755C07200F}
+----------------------------------------------
+
+Software Name: Apple Application Support (32 bits)
+Version: 3.1.3
+Publisher: Apple Inc.
+Install Time: 20/04/2015
+Size: 95,43 MB
+Help info: http://www.apple.com/fr/support/
+Registry Key: HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\{AFA1153A-F547-409B-B837-3A0D6C5A3FEC}
+Uninstall Command: MsiExec.exe /X{AFA1153A-F547-409B-B837-3A0D6C5A3FEC}
+----------------------------------------------
+
+Software Name: SMI Grabber Device
+Version: 1.0.0.26
+Publisher: Somagic
+Install Time: 08/04/2015
+Size: 
+Help info: -
+Registry Key: HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\{B03B98E3-2795-48F6-BA33-793BBF5DF685}
+Uninstall Command: RunDll32 C:\PROGRA~2\COMMON~1\INSTAL~1\PROFES~1\RunTime\11\50\Intel32\Ctor.dll,LaunchSetup "C:\Program Files (x86)\InstallShield Installation Information\{B03B98E3-2795-48F6-BA33-793BBF5DF685}\setup.exe" -l0x9  -removeonly
+----------------------------------------------
+
+Software Name: Google Talk Plugin
+Version: 5.41.2.0
+Publisher: Google
+Install Time: 13/05/2015
+Size: 15,10 MB
+Help info: -
+Registry Key: HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\{CA3DD97D-1FD7-37A7-BD5C-FC4430C8B8E6}
+Uninstall Command: MsiExec.exe /X{CA3DD97D-1FD7-37A7-BD5C-FC4430C8B8E6}
+----------------------------------------------
+
+Software Name: Adobe Photoshop CS
+Version: CS
+Publisher: Adobe Systems, Inc.
+Install Time: 26/03/2015
+Size: 276,74 MB
+Help info: -
+Registry Key: HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\{EFB21DE7-8C19-4A88-BB28-A766E16493BC}
+Uninstall Command: RunDll32 C:\PROGRA~2\COMMON~1\INSTAL~1\PROFES~1\RunTime\0701\Intel32\Ctor.dll,LaunchSetup "C:\Program Files (x86)\InstallShield Installation Information\{EFB21DE7-8C19-4A88-BB28-A766E16493BC}\setup.exe" -l0x401 
+----------------------------------------------
+
+Software Name: Mixlr version 2.11
+Version: 2.11
+Publisher: Mixlr Ltd.
+Install Time: 09/04/2015
+Size: 104,90 MB
+Help info: http://support.mixlr.com
+Registry Key: HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\{F021F776-6BD4-4301-985D-0C1D27EEC8ED}_is1
+Uninstall Command: "C:\Program Files (x86)\Mixlr\unins000.exe"
+----------------------------------------------
+
+Software Name: Microsoft Visual C++ 2010  x86 Redistributable - 10.0.40219
+Version: 10.0.40219
+Publisher: Microsoft Corporation
+Install Time: 06/05/2015
+Size: 11,15 MB
+Help info: http://go.microsoft.com/fwlink/?LinkId=146008
+Registry Key: HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\{F0C3E5D1-1ADE-321E-8167-68EF0DE699A5}
+Uninstall Command: MsiExec.exe /X{F0C3E5D1-1ADE-321E-8167-68EF0DE699A5}
+----------------------------------------------
+
+Software Name: Microsoft Visual C++ 2008 Redistributable - x86 9.0.21022
+Version: 9.0.21022
+Publisher: Microsoft Corporation
+Install Time: 01/05/2015
+Size: 5,95 MB
+Help info: -
+Registry Key: HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\{FF66E9F6-83E7-3A3E-AF14-8DE9A809A6A4}
+Uninstall Command: MsiExec.exe /X{FF66E9F6-83E7-3A3E-AF14-8DE9A809A6A4}
+----------------------------------------------
+
+Software Name: BitTorrent
+Version: 7.9.3.40299
+Publisher: BitTorrent Inc.
+Install Time: 26/03/2015
+Size: 9,82 MB
+Help info: http://www.bittorrent.com/btusers/guides
+Registry Key: HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\BitTorrent
+Uninstall Command: "C:\Users\majreau\AppData\Roaming\BitTorrent\BitTorrent.exe" /UNINSTALL
+----------------------------------------------
+
+Software Name: Maxthon Nitro
+Version: 1.0.1.3000
+Publisher: Maxthon International Limited
+Install Time: 26/03/2015
+Size: 583,06 MB
+Help info: -
+Registry Key: HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\MxNitro
+Uninstall Command: C:\Users\majreau\AppData\Roaming\mxnitro\1.0.1.3000\NitroUnis.exe
+----------------------------------------------
+
+Software Name: PhotoFiltre 7
+Version: -
+Publisher:  
+Install Time: 27/03/2015
+Size: 7,95 MB
+Help info: -
+Registry Key: HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\PhotoFiltre 7
+Uninstall Command: "C:\Program Files (x86)\PhotoFiltre 7\Uninst.exe"
+----------------------------------------------
+
+Software Name: Conexant HDA D330 MDC V.92 Modem
+Version: 7.75.00.51
+Publisher: Conexant
+Install Time: 10/04/2015
+Size: 6,58 MB
+Help info: -
+Registry Key: HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\CNXT_MODEM_HDAUDIO_VEN_14F1&DEV_2C06&SUBSYS_14F1000F
+Uninstall Command: C:\Program Files\CONEXANT\CNXT_MODEM_HDAUDIO_VEN_14F1&DEV_2C06&SUBSYS_14F1000F\UIU64m.exe -U -Idel000f6.INF
+----------------------------------------------
+
+Software Name: CyberGhost 5
+Version: -
+Publisher: CyberGhost S.R.L.
+Install Time: 17/05/2015
+Size: 28,12 MB
+Help info: http://www.cyberghostvpn.com
+Registry Key: HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\CyberGhost 5_is1
+Uninstall Command: "C:\Program Files\CyberGhost 5\unins000.exe"
+----------------------------------------------
+
+Software Name: Microsoft Visual Studio 2010 Tools for Office Runtime (x64)
+Version: 10.0.50903
+Publisher: Microsoft Corporation
+Install Time: 05/05/2015
+Size: 6,22 MB
+Help info: http://go.microsoft.com/fwlink/?LinkId=133405
+Registry Key: HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\Microsoft Visual Studio 2010 Tools for Office Runtime (x64)
+Uninstall Command: c:\Program Files\Common Files\Microsoft Shared\VSTO\10.0\Microsoft Visual Studio 2010 Tools for Office Runtime (x64)\install.exe
+----------------------------------------------
+
+Software Name: Module linguistique Microsoft Visual Studio 2010 Tools pour Office Runtime (x64) - FRA
+Version: 10.0.50903
+Publisher: Microsoft Corporation
+Install Time: 05/05/2015
+Size: 6,22 MB
+Help info: http://go.microsoft.com/fwlink/?LinkId=133405
+Registry Key: HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\Microsoft Visual Studio 2010 Tools for Office Runtime (x64) Language Pack - FRA
+Uninstall Command: c:\Program Files\Common Files\Microsoft Shared\VSTO\10.0\Microsoft Visual Studio 2010 Tools for Office Runtime (x64) Language Pack - FRA\install.exe
+----------------------------------------------
+
+Software Name: TAP-Windows 9.9.2
+Version: 9.9.2
+Publisher:  
+Install Time: 02/04/2015
+Size: 260,58 KB
+Help info: -
+Registry Key: HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\TAP-Windows
+Uninstall Command: C:\Program Files\TAP-Windows\Uninstall.exe
+----------------------------------------------
+
+Software Name: WinRAR 5.21 (64-bit)
+Version: 5.21.0
+Publisher: win.rar GmbH
+Install Time: 26/03/2015
+Size: 5,20 MB
+Help info: -
+Registry Key: HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\WinRAR archiver
+Uninstall Command: C:\Program Files\WinRAR\uninstall.exe
+----------------------------------------------
+
+Software Name: Microsoft Visual C++ 2010  x64 Redistributable - 10.0.40219
+Version: 10.0.40219
+Publisher: Microsoft Corporation
+Install Time: 06/05/2015
+Size: 13,87 MB
+Help info: http://go.microsoft.com/fwlink/?LinkId=146008
+Registry Key: HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\{1D8E6291-B0D5-35EC-8441-6616F567A0F7}
+Uninstall Command: MsiExec.exe /X{1D8E6291-B0D5-35EC-8441-6616F567A0F7}
+----------------------------------------------
+
+Software Name: Inpaint 5.5
+Version: -
+Publisher: Teorex
+Install Time: 10/05/2015
+Size: 13,32 MB
+Help info: http://www.theinpaint.com/support.html
+Registry Key: HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\{2AEDC172-479F-47AE-8A48-A0524D4AED5B}_is1
+Uninstall Command: "C:\Program Files\Inpaint\unins000.exe"
+----------------------------------------------
+
+Software Name: Microsoft Visual C++ 2008 Redistributable - x64 9.0.30729.4148
+Version: 9.0.30729.4148
+Publisher: Microsoft Corporation
+Install Time: 26/03/2015
+Size: 13,20 MB
+Help info: -
+Registry Key: HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\{4B6C7001-C7D6-3710-913E-5BC23FCE91E6}
+Uninstall Command: MsiExec.exe /X{4B6C7001-C7D6-3710-913E-5BC23FCE91E6}
+----------------------------------------------
+
+Software Name: Microsoft Visual C++ 2008 Redistributable - x64 9.0.30729.6161
+Version: 9.0.30729.6161
+Publisher: Microsoft Corporation
+Install Time: 27/03/2015
+Size: 13,21 MB
+Help info: -
+Registry Key: HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\{5FCE6D76-F5DC-37AB-B2B8-22AB8CEDB1D4}
+Uninstall Command: MsiExec.exe /X{5FCE6D76-F5DC-37AB-B2B8-22AB8CEDB1D4}
+----------------------------------------------
+
+Software Name: Bonjour
+Version: 3.0.0.10
+Publisher: Apple Inc.
+Install Time: 26/03/2015
+Size: 2,00 MB
+Help info: http://www.apple.com/fr/support/
+Registry Key: HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\{6E3610B2-430D-4EB0-81E3-2B57E8B9DE8D}
+Uninstall Command: MsiExec.exe /X{6E3610B2-430D-4EB0-81E3-2B57E8B9DE8D}
+----------------------------------------------
+
+Software Name: Microsoft Silverlight
+Version: 5.1.40416.0
+Publisher: Microsoft Corporation
+Install Time: 13/05/2015
+Size: 100,38 MB
+Help info: http://go.microsoft.com/fwlink/?LinkID=91955
+Registry Key: HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\{89F4137D-6C26-4A84-BDB8-2E5A4BB71E00}
+Uninstall Command: MsiExec.exe /X{89F4137D-6C26-4A84-BDB8-2E5A4BB71E00}
+----------------------------------------------
+
+Software Name: KMSpico
+Version: -
+Publisher:  
+Install Time: 05/05/2015
+Size: 19,41 MB
+Help info: -
+Registry Key: HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\{8B29D47F-92E2-4C20-9EE0-F710991F5D7C}_is1
+Uninstall Command: "C:\Program Files\KMSpico\unins000.exe"
+----------------------------------------------
+
+Software Name: ALPS Touch Pad Driver
+Version: 8.201.1711.122
+Publisher: Alps Electric
+Install Time: 04/05/2015
+Size: 61,37 MB
+Help info: -
+Registry Key: HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\{9F72EF8B-AEC9-4CA5-B483-143980AFD6FD}
+Uninstall Command: C:\Program Files\Apoint2K\Uninstap.exe ADDREMOVE
+----------------------------------------------
+
+Software Name: Nokia Connectivity Cable Driver
+Version: 7.1.32.69
+Publisher:  
+Install Time: 26/03/2015
+Size: 
+Help info: -
+Registry Key: HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\{BC4AE628-81A4-4FC6-863A-7A9BA2E2531F}
+Uninstall Command: RUNDLL32.EXE ccdcmbwux64.dll,WuUninstall
+----------------------------------------------
+
+Software Name: Apple Mobile Device Support
+Version: 8.1.1.3
+Publisher: Apple Inc.
+Install Time: 04/05/2015
+Size: 29,35 MB
+Help info: http://www.apple.com/support/
+Registry Key: HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\{C4123106-B685-48E6-B9BD-E4F911841EB4}
+Uninstall Command: MsiExec.exe /X{C4123106-B685-48E6-B9BD-E4F911841EB4}
+----------------------------------------------
+
+Software Name: iTunes
+Version: 12.1.1.4
+Publisher: Apple Inc.
+Install Time: 20/04/2015
+Size: 234,11 MB
+Help info: http://www.apple.com/fr/support/
+Registry Key: HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\{D227565A-0033-40AD-89BA-653A205CDC11}
+Uninstall Command: MsiExec.exe /X{D227565A-0033-40AD-89BA-653A205CDC11}
+----------------------------------------------
+
+Software Name: Apple Application Support (64 bits)
+Version: 3.1.3
+Publisher: Apple Inc.
+Install Time: 20/04/2015
+Size: 108,67 MB
+Help info: http://www.apple.com/fr/support/
+Registry Key: HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\{D7B824DE-DA32-4772-9E5E-39C5158136A7}
+Uninstall Command: MsiExec.exe /X{D7B824DE-DA32-4772-9E5E-39C5158136A7}
+----------------------------------------------
+
+====================================
+Browser Plug-ins List
+Application Version:4.3.0.118
+Windows 8
+Exported Time:05-23-2015 23:36:03
+====================================
+
+====================================
+Browser: Internet Explorer
+====================================
+
+************************************
+Toolbar
+************************************
+
+Name: Send to OneNote
+Version: 
+Description: 
+Publisher: 
+Architecture: 32-bit
+----------------------------------------------
+
+Name: Lync Click to Call
+Version: 15.0.4701.1000
+Description: Microsoft Lync
+Publisher: Microsoft Corporation
+Architecture: 32-bit
+----------------------------------------------
+
+Name: OneNote Linked Notes
+Version: 
+Description: 
+Publisher: 
+Architecture: 32-bit
+----------------------------------------------
+
+Name: Send to OneNote
+Version: 
+Description: 
+Publisher: 
+Architecture: 64-bit
+----------------------------------------------
+
+Name: Lync Click to Call
+Version: 15.0.4701.1000
+Description: Microsoft Lync
+Publisher: Microsoft Corporation
+Architecture: 64-bit
+----------------------------------------------
+
+Name: OneNote Linked Notes
+Version: 
+Description: 
+Publisher: 
+Architecture: 64-bit
+----------------------------------------------
+
+************************************
+BHO
+************************************
+
+Name: IDM integration (IDMIEHlprObj Class)
+Version: 6. 23. 12. 1
+Description: IDM Browser Helper Object
+Publisher: Tonec Inc.
+Architecture: 32-bit
+----------------------------------------------
+
+Name: Lync Browser Helper
+Version: 15.0.4701.1000
+Description: Microsoft Lync
+Publisher: Microsoft Corporation
+Architecture: 32-bit
+----------------------------------------------
+
+Name: Java(tm) Plug-In SSV Helper
+Version: 11.45.2.14
+Description: Java(TM) Platform SE binary
+Publisher: Oracle America, Inc.
+Architecture: 32-bit
+----------------------------------------------
+
+Name: Office Document Cache Handler
+Version: 15.0.4420.1017
+Description: Microsoft Office Document Cache Handler
+Publisher: Microsoft Corporation
+Architecture: 32-bit
+----------------------------------------------
+
+Name: Microsoft SkyDrive Pro Browser Helper
+Version: 15.0.4693.1000
+Description: Microsoft OneDrive for Business Extensions
+Publisher: Microsoft Corporation
+Architecture: 32-bit
+----------------------------------------------
+
+Name: Java(tm) Plug-In 2 SSV Helper
+Version: 11.45.2.14
+Description: Java(TM) Platform SE binary
+Publisher: Oracle America, Inc.
+Architecture: 32-bit
+----------------------------------------------
+
+Name: IDM integration (IDMIEHlprObj Class)
+Version: 6. 23. 12. 1
+Description: IDM Browser Helper Object
+Publisher: Tonec Inc.
+Architecture: 64-bit
+----------------------------------------------
+
+Name: Lync Browser Helper
+Version: 15.0.4701.1000
+Description: Microsoft Lync
+Publisher: Microsoft Corporation
+Architecture: 64-bit
+----------------------------------------------
+
+Name: Office Document Cache Handler
+Version: 15.0.4420.1017
+Description: Microsoft Office Document Cache Handler
+Publisher: Microsoft Corporation
+Architecture: 64-bit
+----------------------------------------------
+
+Name: Microsoft SkyDrive Pro Browser Helper
+Version: 15.0.4693.1000
+Description: Microsoft OneDrive for Business Extensions
+Publisher: Microsoft Corporation
+Architecture: 64-bit
+----------------------------------------------
+
+************************************
+ActiveX
+************************************
+
+Name: Google Talk ActiveX Plugin
+Version: 5.41.2.0
+Description: Google Talk ActiveX Plugin
+Publisher: Google Inc
+Architecture: 32-bit
+----------------------------------------------
+
+Name: Windows Media Player
+Version: 
+Description: 
+Publisher: 
+Architecture: 32-bit
+----------------------------------------------
+
+Name: VLC ActiveX Plugin and IE Web Plugin v2
+Version: 
+Description: 
+Publisher: VideoLAN
+Architecture: 32-bit
+----------------------------------------------
+
+Name: Google Talk Video Renderer
+Version: 5.41.2.0
+Description: Google Talk Video Renderer
+Publisher: Google Inc
+Architecture: 32-bit
+----------------------------------------------
+
+Name: Shockwave Flash Object
+Version: 17.0.0.188
+Description: Adobe Flash Player 17.0 r0
+Publisher: Microsoft Windows Third Party Application Component
+Architecture: 32-bit
+----------------------------------------------
+
+Name: Microsoft Silverlight
+Version: 5.1.40416.0
+Description: 5.1.40416.0
+Publisher: Microsoft Corporation
+Architecture: 32-bit
+----------------------------------------------
+
+Name: XML HTTP
+Version: 
+Description: 
+Publisher: 
+Architecture: 32-bit
+----------------------------------------------
+
+Name: Windows Media Player
+Version: 
+Description: 
+Publisher: 
+Architecture: 64-bit
+----------------------------------------------
+
+Name: Shockwave Flash Object
+Version: 17.0.0.188
+Description: Adobe Flash Player 17.0 r0
+Publisher: Microsoft Windows Third Party Application Component
+Architecture: 64-bit
+----------------------------------------------
+
+Name: Microsoft Silverlight
+Version: 5.1.40416.0
+Description: 5.1.40416.0
+Publisher: Microsoft Corporation
+Architecture: 64-bit
+----------------------------------------------
+
+Name: XML HTTP
+Version: 
+Description: 
+Publisher: 
+Architecture: 64-bit
+----------------------------------------------
+
+====================================
+Browser: Google Chrome
+====================================
+
+====================================
+Browser: Mozilla FireFox
+====================================
+
+====================================
+Browser: Opera
+====================================
+
+
+====================================
+Metro Info
+Application Version:4.3.0.118
+Windows 8
+Exported Time:05-23-2015 23:36:03
+====================================
+
+Software Name: Finance
+Version: 3.0.4.315
+Publisher: Microsoft Corporation
+Install Time: 24/09/2014
+Size: 28,8 MB
+Registry Key: HKEY_CURRENT_USER\Software\Classes\Local Settings\Software\Microsoft\Windows\CurrentVersion\AppModel\SystemAppData\Microsoft.BingFinance_8wekyb3d8bbwe\SplashScreen\Microsoft.BingFinance_8wekyb3d8bbwe!AppexFinance
+Path: C:\Program Files\WindowsApps\Microsoft.BingFinance_3.0.4.315_x64__8wekyb3d8bbwe\
+Uninstall Command: Microsoft.BingFinance_3.0.4.315_x64__8wekyb3d8bbwe
+----------------------------------------------
+
+Software Name: Cuisine & Vins
+Version: 3.0.4.315
+Publisher: Microsoft Corporation
+Install Time: 24/09/2014
+Size: 23,5 MB
+Registry Key: HKEY_CURRENT_USER\Software\Classes\Local Settings\Software\Microsoft\Windows\CurrentVersion\AppModel\SystemAppData\Microsoft.BingFoodAndDrink_8wekyb3d8bbwe\SplashScreen\Microsoft.BingFoodAndDrink_8wekyb3d8bbwe!AppexFoodAndDrink
+Path: C:\Program Files\WindowsApps\Microsoft.BingFoodAndDrink_3.0.4.315_x64__8wekyb3d8bbwe\
+Uninstall Command: Microsoft.BingFoodAndDrink_3.0.4.315_x64__8wekyb3d8bbwe
+----------------------------------------------
+
+Software Name: Santé & Forme
+Version: 3.0.4.315
+Publisher: Microsoft Corporation
+Install Time: 24/09/2014
+Size: 27,9 MB
+Registry Key: HKEY_CURRENT_USER\Software\Classes\Local Settings\Software\Microsoft\Windows\CurrentVersion\AppModel\SystemAppData\Microsoft.BingHealthAndFitness_8wekyb3d8bbwe\SplashScreen\Microsoft.BingHealthAndFitness_8wekyb3d8bbwe!AppexHealthAndFitness
+Path: C:\Program Files\WindowsApps\Microsoft.BingHealthAndFitness_3.0.4.315_x64__8wekyb3d8bbwe\
+Uninstall Command: Microsoft.BingHealthAndFitness_3.0.4.315_x64__8wekyb3d8bbwe
+----------------------------------------------
+
+Software Name: Cartes
+Version: 2.1.3230.2048
+Publisher: Microsoft Corporation
+Install Time: 24/09/2014
+Size: 17,0 MB
+Registry Key: HKEY_CURRENT_USER\Software\Classes\Local Settings\Software\Microsoft\Windows\CurrentVersion\AppModel\SystemAppData\Microsoft.BingMaps_8wekyb3d8bbwe\SplashScreen\Microsoft.BingMaps_8wekyb3d8bbwe!AppexMaps
+Path: C:\Program Files\WindowsApps\Microsoft.BingMaps_2.1.3230.2048_x64__8wekyb3d8bbwe\
+Uninstall Command: Microsoft.BingMaps_2.1.3230.2048_x64__8wekyb3d8bbwe
+----------------------------------------------
+
+Software Name: Actualité
+Version: 3.0.4.315
+Publisher: Microsoft Corporation
+Install Time: 24/09/2014
+Size: 24,9 MB
+Registry Key: HKEY_CURRENT_USER\Software\Classes\Local Settings\Software\Microsoft\Windows\CurrentVersion\AppModel\SystemAppData\Microsoft.BingNews_8wekyb3d8bbwe\SplashScreen\Microsoft.BingNews_8wekyb3d8bbwe!AppexNews
+Path: C:\Program Files\WindowsApps\Microsoft.BingNews_3.0.4.315_x64__8wekyb3d8bbwe\
+Uninstall Command: Microsoft.BingNews_3.0.4.315_x64__8wekyb3d8bbwe
+----------------------------------------------
+
+Software Name: Sport
+Version: 3.0.4.315
+Publisher: Microsoft Corporation
+Install Time: 24/09/2014
+Size: 27,5 MB
+Registry Key: HKEY_CURRENT_USER\Software\Classes\Local Settings\Software\Microsoft\Windows\CurrentVersion\AppModel\SystemAppData\Microsoft.BingSports_8wekyb3d8bbwe\SplashScreen\Microsoft.BingSports_8wekyb3d8bbwe!AppexSports
+Path: C:\Program Files\WindowsApps\Microsoft.BingSports_3.0.4.315_x64__8wekyb3d8bbwe\
+Uninstall Command: Microsoft.BingSports_3.0.4.315_x64__8wekyb3d8bbwe
+----------------------------------------------
+
+Software Name: Voyage
+Version: 3.0.4.309
+Publisher: Microsoft Corporation
+Install Time: 24/09/2014
+Size: 27,4 MB
+Registry Key: HKEY_CURRENT_USER\Software\Classes\Local Settings\Software\Microsoft\Windows\CurrentVersion\AppModel\SystemAppData\Microsoft.BingTravel_8wekyb3d8bbwe\SplashScreen\Microsoft.BingTravel_8wekyb3d8bbwe!AppexTravel
+Path: C:\Program Files\WindowsApps\Microsoft.BingTravel_3.0.4.309_x64__8wekyb3d8bbwe\
+Uninstall Command: Microsoft.BingTravel_3.0.4.309_x64__8wekyb3d8bbwe
+----------------------------------------------
+
+Software Name: Météo
+Version: 3.0.4.315
+Publisher: Microsoft Corporation
+Install Time: 24/09/2014
+Size: 25,7 MB
+Registry Key: HKEY_CURRENT_USER\Software\Classes\Local Settings\Software\Microsoft\Windows\CurrentVersion\AppModel\SystemAppData\Microsoft.BingWeather_8wekyb3d8bbwe\SplashScreen\Microsoft.BingWeather_8wekyb3d8bbwe!App
+Path: C:\Program Files\WindowsApps\Microsoft.BingWeather_3.0.4.315_x64__8wekyb3d8bbwe\
+Uninstall Command: Microsoft.BingWeather_3.0.4.315_x64__8wekyb3d8bbwe
+----------------------------------------------
+
+Software Name: Aide+Conseils
+Version: 6.3.9654.20559
+Publisher: Microsoft Corporation
+Install Time: 24/09/2014
+Size: 32,8 MB
+Registry Key: HKEY_CURRENT_USER\Software\Classes\Local Settings\Software\Microsoft\Windows\CurrentVersion\AppModel\SystemAppData\Microsoft.HelpAndTips_8wekyb3d8bbwe\SplashScreen\Microsoft.HelpAndTips_8wekyb3d8bbwe!HelpAndTips
+Path: C:\Program Files\WindowsApps\Microsoft.HelpAndTips_6.3.9654.20559_x64__8wekyb3d8bbwe\
+Uninstall Command: Microsoft.HelpAndTips_6.3.9654.20559_x64__8wekyb3d8bbwe
+----------------------------------------------
+
+Software Name: OneNote
+Version: 16.0.3327.1030
+Publisher: Microsoft Corporation
+Install Time: 24/09/2014
+Size: 94,4 MB
+Registry Key: HKEY_CURRENT_USER\Software\Classes\Local Settings\Software\Microsoft\Windows\CurrentVersion\AppModel\SystemAppData\Microsoft.Office.OneNote_8wekyb3d8bbwe\SplashScreen\Microsoft.Office.OneNote_8wekyb3d8bbwe!microsoft.onenoteim
+Path: C:\Program Files\WindowsApps\Microsoft.Office.OneNote_16.0.3327.1030_x64__8wekyb3d8bbwe\
+Uninstall Command: Microsoft.Office.OneNote_16.0.3327.1030_x64__8wekyb3d8bbwe
+----------------------------------------------
+
+Software Name: Lecteur
+Version: 6.3.9654.17499
+Publisher: Microsoft Corporation
+Install Time: 24/09/2014
+Size: 13,5 MB
+Registry Key: HKEY_CURRENT_USER\Software\Classes\Local Settings\Software\Microsoft\Windows\CurrentVersion\AppModel\SystemAppData\Microsoft.Reader_8wekyb3d8bbwe\SplashScreen\Microsoft.Reader_8wekyb3d8bbwe!Microsoft.Reader
+Path: C:\Program Files\WindowsApps\Microsoft.Reader_6.3.9654.17499_x64__8wekyb3d8bbwe\
+Uninstall Command: Microsoft.Reader_6.3.9654.17499_x64__8wekyb3d8bbwe
+----------------------------------------------
+
+Software Name: Skype
+Version: 3.1.0.1007
+Publisher: Skype
+Install Time: 24/09/2014
+Size: 30,0 MB
+Registry Key: HKEY_CURRENT_USER\Software\Classes\Local Settings\Software\Microsoft\Windows\CurrentVersion\AppModel\SystemAppData\Microsoft.SkypeApp_kzf8qxf38zg5c\SplashScreen\Microsoft.SkypeApp_kzf8qxf38zg5c!App
+Path: C:\Program Files\WindowsApps\Microsoft.SkypeApp_3.1.0.1007_x86__kzf8qxf38zg5c\
+Uninstall Command: Microsoft.SkypeApp_3.1.0.1007_x86__kzf8qxf38zg5c
+----------------------------------------------
+
+Software Name: Alarmes
+Version: 6.3.9654.20335
+Publisher: Microsoft Corporation
+Install Time: 24/09/2014
+Size: 5,6 MB
+Registry Key: HKEY_CURRENT_USER\Software\Classes\Local Settings\Software\Microsoft\Windows\CurrentVersion\AppModel\SystemAppData\Microsoft.WindowsAlarms_8wekyb3d8bbwe\SplashScreen\Microsoft.WindowsAlarms_8wekyb3d8bbwe!App
+Path: C:\Program Files\WindowsApps\Microsoft.WindowsAlarms_6.3.9654.20335_x64__8wekyb3d8bbwe\
+Uninstall Command: Microsoft.WindowsAlarms_6.3.9654.20335_x64__8wekyb3d8bbwe
+----------------------------------------------
+
+Software Name: Calculatrice
+Version: 6.3.9600.20278
+Publisher: Microsoft Corporation
+Install Time: 24/09/2014
+Size: 5,2 MB
+Registry Key: HKEY_CURRENT_USER\Software\Classes\Local Settings\Software\Microsoft\Windows\CurrentVersion\AppModel\SystemAppData\Microsoft.WindowsCalculator_8wekyb3d8bbwe\SplashScreen\Microsoft.WindowsCalculator_8wekyb3d8bbwe!App
+Path: C:\Program Files\WindowsApps\Microsoft.WindowsCalculator_6.3.9600.20278_x64__8wekyb3d8bbwe\
+Uninstall Command: Microsoft.WindowsCalculator_6.3.9600.20278_x64__8wekyb3d8bbwe
+----------------------------------------------
+
+Software Name: Calendrier
+Version: 17.5.9600.20856
+Publisher: Microsoft Corporation
+Install Time: 24/09/2014
+Size: 34,6 MB
+Registry Key: HKEY_CURRENT_USER\Software\Classes\Local Settings\Software\Microsoft\Windows\CurrentVersion\AppModel\SystemAppData\microsoft.windowscommunicationsapps_8wekyb3d8bbwe\SplashScreen\microsoft.windowscommunicationsapps_8wekyb3d8bbwe!Microsoft.WindowsLive.Calendar
+Path: C:\Program Files\WindowsApps\microsoft.windowscommunicationsapps_17.5.9600.20856_x64__8wekyb3d8bbwe\
+Uninstall Command: microsoft.windowscommunicationsapps_17.5.9600.20856_x64__8wekyb3d8bbwe
+----------------------------------------------
+
+Software Name: Courrier
+Version: 17.5.9600.20856
+Publisher: Microsoft Corporation
+Install Time: 24/09/2014
+Size: 34,6 MB
+Registry Key: HKEY_CURRENT_USER\Software\Classes\Local Settings\Software\Microsoft\Windows\CurrentVersion\AppModel\SystemAppData\microsoft.windowscommunicationsapps_8wekyb3d8bbwe\SplashScreen\microsoft.windowscommunicationsapps_8wekyb3d8bbwe!Microsoft.WindowsLive.Mail
+Path: C:\Program Files\WindowsApps\microsoft.windowscommunicationsapps_17.5.9600.20856_x64__8wekyb3d8bbwe\
+Uninstall Command: microsoft.windowscommunicationsapps_17.5.9600.20856_x64__8wekyb3d8bbwe
+----------------------------------------------
+
+Software Name: Contacts
+Version: 17.5.9600.20856
+Publisher: Microsoft Corporation
+Install Time: 24/09/2014
+Size: 34,6 MB
+Registry Key: HKEY_CURRENT_USER\Software\Classes\Local Settings\Software\Microsoft\Windows\CurrentVersion\AppModel\SystemAppData\microsoft.windowscommunicationsapps_8wekyb3d8bbwe\SplashScreen\microsoft.windowscommunicationsapps_8wekyb3d8bbwe!Microsoft.WindowsLive.People
+Path: C:\Program Files\WindowsApps\microsoft.windowscommunicationsapps_17.5.9600.20856_x64__8wekyb3d8bbwe\
+Uninstall Command: microsoft.windowscommunicationsapps_17.5.9600.20856_x64__8wekyb3d8bbwe
+----------------------------------------------
+
+Software Name: Liste de lectures
+Version: 6.3.9654.20540
+Publisher: Microsoft Corporation
+Install Time: 24/09/2014
+Size: 5,2 MB
+Registry Key: HKEY_CURRENT_USER\Software\Classes\Local Settings\Software\Microsoft\Windows\CurrentVersion\AppModel\SystemAppData\Microsoft.WindowsReadingList_8wekyb3d8bbwe\SplashScreen\Microsoft.WindowsReadingList_8wekyb3d8bbwe!Microsoft.WindowsReadingList
+Path: C:\Program Files\WindowsApps\Microsoft.WindowsReadingList_6.3.9654.20540_x64__8wekyb3d8bbwe\
+Uninstall Command: Microsoft.WindowsReadingList_6.3.9654.20540_x64__8wekyb3d8bbwe
+----------------------------------------------
+
+Software Name: Scanneur
+Version: 6.3.9654.17133
+Publisher: Microsoft Corporation
+Install Time: 24/09/2014
+Size: 3,1 MB
+Registry Key: HKEY_CURRENT_USER\Software\Classes\Local Settings\Software\Microsoft\Windows\CurrentVersion\AppModel\SystemAppData\Microsoft.WindowsScan_8wekyb3d8bbwe\SplashScreen\Microsoft.WindowsScan_8wekyb3d8bbwe!App
+Path: C:\Program Files\WindowsApps\Microsoft.WindowsScan_6.3.9654.17133_x64__8wekyb3d8bbwe\
+Uninstall Command: Microsoft.WindowsScan_6.3.9654.17133_x64__8wekyb3d8bbwe
+----------------------------------------------
+
+Software Name: Enregistreur
+Version: 6.3.9600.20280
+Publisher: Microsoft Corporation
+Install Time: 24/09/2014
+Size: 6,7 MB
+Registry Key: HKEY_CURRENT_USER\Software\Classes\Local Settings\Software\Microsoft\Windows\CurrentVersion\AppModel\SystemAppData\Microsoft.WindowsSoundRecorder_8wekyb3d8bbwe\SplashScreen\Microsoft.WindowsSoundRecorder_8wekyb3d8bbwe!App
+Path: C:\Program Files\WindowsApps\Microsoft.WindowsSoundRecorder_6.3.9600.20280_x64__8wekyb3d8bbwe\
+Uninstall Command: Microsoft.WindowsSoundRecorder_6.3.9600.20280_x64__8wekyb3d8bbwe
+----------------------------------------------
+
+Software Name: Jeux
+Version: 2.0.139.0
+Publisher: Microsoft Corporation
+Install Time: 24/09/2014
+Size: 28,3 MB
+Registry Key: HKEY_CURRENT_USER\Software\Classes\Local Settings\Software\Microsoft\Windows\CurrentVersion\AppModel\SystemAppData\Microsoft.XboxLIVEGames_8wekyb3d8bbwe\SplashScreen\Microsoft.XboxLIVEGames_8wekyb3d8bbwe!Microsoft.XboxLIVEGames
+Path: C:\Program Files\WindowsApps\Microsoft.XboxLIVEGames_2.0.139.0_x64__8wekyb3d8bbwe\
+Uninstall Command: Microsoft.XboxLIVEGames_2.0.139.0_x64__8wekyb3d8bbwe
+----------------------------------------------
+
+Software Name: Musique
+Version: 2.6.672.0
+Publisher: Microsoft Corporation
+Install Time: 24/09/2014
+Size: 57,8 MB
+Registry Key: HKEY_CURRENT_USER\Software\Classes\Local Settings\Software\Microsoft\Windows\CurrentVersion\AppModel\SystemAppData\Microsoft.ZuneMusic_8wekyb3d8bbwe\SplashScreen\Microsoft.ZuneMusic_8wekyb3d8bbwe!Microsoft.ZuneMusic
+Path: C:\Program Files\WindowsApps\Microsoft.ZuneMusic_2.6.672.0_x64__8wekyb3d8bbwe\
+Uninstall Command: Microsoft.ZuneMusic_2.6.672.0_x64__8wekyb3d8bbwe
+----------------------------------------------
+
+Software Name: Vidéo
+Version: 2.6.440.0
+Publisher: Microsoft Corporation
+Install Time: 24/09/2014
+Size: 51,0 MB
+Registry Key: HKEY_CURRENT_USER\Software\Classes\Local Settings\Software\Microsoft\Windows\CurrentVersion\AppModel\SystemAppData\Microsoft.ZuneVideo_8wekyb3d8bbwe\SplashScreen\Microsoft.ZuneVideo_8wekyb3d8bbwe!Microsoft.ZuneVideo
+Path: C:\Program Files\WindowsApps\Microsoft.ZuneVideo_2.6.440.0_x64__8wekyb3d8bbwe\
+Uninstall Command: Microsoft.ZuneVideo_2.6.440.0_x64__8wekyb3d8bbwe
+----------------------------------------------
+
