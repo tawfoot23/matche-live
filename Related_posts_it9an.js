@@ -37,7 +37,7 @@ function printRelatedLabels() {
 var r = Math.floor((relatedTitles.length - 1) * Math.random());
 var i = 0;
 document.write('<ul>');
-while (i < relatedTitles.length && i < 20) {
+while (i < relatedTitles.length && i < 10) {
 document.write('<li><a href="' + relatedUrls[r] + '">' + relatedTitles[r] + '</a></li>');
 if (r < relatedTitles.length - 1) {
 r++;
